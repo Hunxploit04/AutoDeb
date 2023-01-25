@@ -1,6 +1,8 @@
 ### DebAuto
 DebAuto adalah tools yang di rancang untuk memberikan kemudahan dalam melakukan konfigurasi - konfigurasi server pada debian, terkhusus anak TKJ hehe 😄
 
+<img src="https://github.com/Hunxploit04/DebAuto/blob/main/autodeb.png">
+
 ### Instalasi di linux (deb)
 ```
 apt-get install git
@@ -13,8 +15,8 @@ atau lebih mudahnya download zip nya
 
 jika sudah berikan aksess tools ini 
 ```
-chmod +x autodeb
-./autodeb
+chmod +x autodeb.sh
+./autodeb.sh
 ```
 lalu untuk jalankannya ketik A atau langsung enter : lalu ikuti rules yang ada di dalam tools ini 
 
