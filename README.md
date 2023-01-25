@@ -1,5 +1,5 @@
-### DebAuto
-DebAuto adalah tools yang di rancang untuk memberikan kemudahan dalam melakukan konfigurasi - konfigurasi server pada debian, terkhusus anak TKJ hehe 😄
+### AutoDeb
+adalah tools yang di rancang untuk memberikan kemudahan dalam melakukan konfigurasi - konfigurasi server pada debian, terkhusus anak TKJ hehe 😄
 
 <img src="https://github.com/Hunxploit04/DebAuto/blob/main/autodeb.png">
 
