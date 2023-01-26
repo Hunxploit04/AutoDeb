@@ -1,6 +1,7 @@
 #!/bin/bash
 # =======================
-# |  CODE BY HunX04     | 
+# |  CODE BY HunX04  	|
+# |     ANAK TKJ 	| 
 # =======================
 
 clear
