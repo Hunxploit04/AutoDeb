@@ -9,7 +9,7 @@ apt-get install git
 ```
 lalu git repository ini : 
 ```
-git clone https://github.com/Hunxploit04/DebAuto.git
+git clone https://github.com/Hunxploit04/AutoDeb.git
 ```
 atau lebih mudahnya download zip nya **[ khusus windows ]**
 
