@@ -1,5 +1,5 @@
 ### AutoDeb
-adalah tools yang di rancang untuk memberikan kemudahan dalam melakukan konfigurasi - konfigurasi server pada debian, terkhusus anak TKJ hehe 😄
+adalah tools yang di rancang untuk memberikan kemudahan dalam melakukan konfigurasi - konfigurasi server pada debian, terkhusus anak TKJ hehe 😄, tools ini di gunakan untuk uji praktek pada materi ASJ ( Administrasi Server Jaringan )
 
 <img src="https://github.com/Hunxploit04/DebAuto/blob/main/autodeb.png">
 
