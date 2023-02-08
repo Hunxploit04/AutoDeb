@@ -26,3 +26,9 @@ lalu untuk jalankannya ketik A atau langsung enter : lalu ikuti rules yang ada d
 disini saya memakai ranloop, untuk kalian yang belum ada bisa download langsung di web resminya : https://www.rainloop.net/repository/webmail/rainloop-latest.zip 
 
 nah setelah terdownload kalian estrak dan rename namanya jadi **[ rainloop ]** lalu pindahkan file tersebut ke ```/var/www``` untuk perintah memindahkannya ketik ```mv rainloop /var/www/``` dan berikan aksess nya ```chmod 777 /var/www/rainloop -R```
+
+### Donasi ke mimin
+'''
+0895327985339 >> Dana 
+0895327985339 >> Pulsa
+'''
