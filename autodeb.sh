@@ -48,7 +48,7 @@ echo -en $WH">> ConfigDeb$GR@`whoami` : $WH";read $num
 #if [$num = `A`];then
 clear
 echo -e "$WH[$GR!$WH] $WH INSTALING PACKET"
-apt-get install bind9 dnsutils apache2 isc-dhcp-server openssh-server proftpd php php-curl php-xml dovecot-core dovecot-imapd postfix -y 
+apt-get install bind9 dnsutils apache2 isc-dhcp-server openssh-server proftpd php php-curl php-xml dovecot-core dovecot-imapd postfix samba squid -y 
 echo -e "$WH[$GR!$WH] $WH INSTALING SUCCESS"
 sleep 3
   
